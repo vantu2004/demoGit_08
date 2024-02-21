@@ -8,8 +8,10 @@ namespace demoGit_08
 {
     internal class Program
     {
+        private string name;
         static void Main(string[] args)
         {
+
         }
     }
 }
