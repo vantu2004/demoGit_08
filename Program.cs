@@ -9,6 +9,7 @@ namespace demoGit_08
     internal class Program
     {
         private string name;
+        private string id;
         static void Main(string[] args)
         {
 
