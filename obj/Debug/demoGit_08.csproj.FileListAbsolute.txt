@@ -1,0 +1,8 @@
+D:\WorkSpace\Document\Window\Week_03\downDemoGit_08\demoGit_08\bin\Debug\demoGit_08.exe.config
+D:\WorkSpace\Document\Window\Week_03\downDemoGit_08\demoGit_08\bin\Debug\demoGit_08.exe
+D:\WorkSpace\Document\Window\Week_03\downDemoGit_08\demoGit_08\bin\Debug\demoGit_08.pdb
+D:\WorkSpace\Document\Window\Week_03\downDemoGit_08\demoGit_08\obj\Debug\demoGit_08.csproj.AssemblyReference.cache
+D:\WorkSpace\Document\Window\Week_03\downDemoGit_08\demoGit_08\obj\Debug\demoGit_08.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\Document\Window\Week_03\downDemoGit_08\demoGit_08\obj\Debug\demoGit_08.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Document\Window\Week_03\downDemoGit_08\demoGit_08\obj\Debug\demoGit_08.exe
+D:\WorkSpace\Document\Window\Week_03\downDemoGit_08\demoGit_08\obj\Debug\demoGit_08.pdb

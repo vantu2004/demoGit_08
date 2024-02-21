@@ -10,9 +10,16 @@ namespace demoGit_08
     {
         private string name;
         private string id;
+        private void info()
+        {
+            name = Console.ReadLine();
+            id = Console.ReadLine();
+            Console.WriteLine(name + " " + id);
+        }
         static void Main(string[] args)
         {
-
+            Program pr = new Program();
+            pr.info();
         }
     }
 }
